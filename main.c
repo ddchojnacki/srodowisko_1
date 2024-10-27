@@ -3,6 +3,11 @@
 
 int main()
 {
-	printf("Hello world/n");
-	return "0"
+	int a;
+	scanf("%d", &a);
+	printf("Hello world\n");
+	printf("Podana liczba %d ==", a);
+	
+	return 0;
 
+}
